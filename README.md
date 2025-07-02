@@ -25,6 +25,7 @@ This was my first time using KiCad and Fusion so I had to learn how to use both 
 BOM: 
 - 8x Cherry MX Switches
 - 12x SK6812 MINI Leds
+- 0.91" OLED screen
 - 1x XIA0 RP2040
 - 8x Blank DSA Keycaps
 - 4x M3x16 Bolt
